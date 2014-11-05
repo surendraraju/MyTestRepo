@@ -56,7 +56,6 @@
 
     }
     
-    //Just adding this line to see if its gonna merge in the main origin 
     
     [self.window makeKeyAndVisible];
 

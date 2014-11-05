@@ -22,6 +22,7 @@
     if (self) {
         
             
+        //gonna add the images needed here .
         
         self.title = @"Student";
         
