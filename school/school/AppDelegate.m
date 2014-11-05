@@ -36,7 +36,7 @@
         UIViewController *viewController3 = [[StudentViewController alloc] initWithNibName:nil bundle:nil];
         
         
-        nslog
+        
         
         //Adding the View controllers to the Navigation Controller
         
@@ -55,6 +55,8 @@
         
 
     }
+    
+    //Just adding this line to see if its gonna merge in the main origin 
     
     [self.window makeKeyAndVisible];
 
