@@ -24,8 +24,10 @@
             
         //gonna add the images needed here .
         
-        self.title = @"Student";
         
+        
+        
+        //removing the title for tab bar .
         
         if (SYSTEM_VERSION_GREATER_THAN_OR_EQUAL_TO(@"7.0"))
         {
